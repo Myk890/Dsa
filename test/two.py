@@ -1,6 +1,3 @@
-from pickle import FALSE, TRUE
-
-
 ## Generate Document Problem
 
 def compare_strings(a, b):
